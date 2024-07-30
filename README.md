@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sty0133&show_icons=true&theme=dark&hide_border=true&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sty0133&theme=xcode&hide_border=true" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sty0133&theme=high-contrast&hide_border=true" width=94%/>
 </a>
 
 ### 🚀 Languages and Tools
