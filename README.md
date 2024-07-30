@@ -1,19 +1,3 @@
-![Header](https://github.com/sty0133/sty0133/blob/main/header.png)
-
-### Hi there 👋, I'm [Your Name]
-
-#### About Me
-- 🔭 I’m currently working on various web and AI projects.
-- 🌱 I’m currently learning advanced machine learning techniques.
-- 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with complex algorithm design.
-- 💬 Ask me about web development and machine learning.
-- 📫 How to reach me: [your_email@example.com]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love to automate my daily tasks using AutoHotkey!
-
----
-
 ### 📊 GitHub Stats
 ![sty0133's GitHub stats](https://github-readme-stats.vercel.app/api?username=sty0133&show_icons=true&theme=radical)
 
@@ -33,3 +17,13 @@
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sty0133.sty0133)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=junia3&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=junia3&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
