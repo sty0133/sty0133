@@ -18,6 +18,7 @@
         <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
         <br/>
+        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tools </h3> 
         <!-- Tools -->
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
@@ -41,12 +42,6 @@
     <div align= "center"> 
         <a href=mailto:woyun.0p@gmail.com> 
             <img src="https://img.shields.io/badge/woyun.0p@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:woyun.0p@gmail.com"> 
-        </a>
-    </div>  
-    <br> 
-    <div align= "center"> 
-        <a href="https://hits.seeyoufarm.com"> 
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsty0133%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
         </a>
-    </div> 
-</div>
+    </div>  
