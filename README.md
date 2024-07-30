@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sty0133&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sty0133/sty0133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
