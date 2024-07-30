@@ -1,5 +1,13 @@
 ### 📊 GitHub Stats
-![sty0133's GitHub stats](https://github-readme-stats.vercel.app/api?username=sty0133&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sty0133&layout=compact&show_icons=true&theme=dark&hide_border=true&count_private=true" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sty0133&show_icons=true&theme=dark&hide_border=true&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sty0133&theme=github-compact&hide_border=true" width=94%/>
+</a>
 
 ### 🚀 Languages and Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sty0133&layout=compact&theme=radical)
@@ -18,12 +26,3 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sty0133.sty0133)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sty0133&layout=donut&show_icons=true&theme=dark&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=sty0133&show_icons=true&theme=dark&hide_border=true&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sty0133&theme=github-compact&hide_border=true" width=94%/>
-</a>
